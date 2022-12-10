@@ -1,2 +1,2 @@
 # CSDIY
-A repository of self study in computer science.
+A repository of my self study in computer science.
