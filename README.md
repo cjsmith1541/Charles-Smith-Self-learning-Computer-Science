@@ -10,7 +10,5 @@ Planned courses:
 - CS50ai
 - MIT-Missing-Semester
 - UCB-CS61A - B - C
-- Duke University: Introductary C Programming Specialization
 - Stanford CS106B
 - Stanford CS106L
-- AmirKabir University of Technology AP1400-2
