@@ -8,10 +8,10 @@ Overview TODO
 
 | Course Link                                                 | Language | My repository |
 | ----------------------------------------------------------- | -------- |---------------|
-| [Havard CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2020/syllabus/) | C, Python, SQL | [Ongoing] |
+| [Havard CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2020/syllabus/) | C, Python, SQL | [Ongoing](https://github.com/cjsmith1541/CS50X-Introduction-to-Computer-Science)|
 | [Havard CS50: Introduction to programming in Python](https://cs50.harvard.edu/python/2022/) | Python | [Ongoing](https://github.com/cjsmith1541/CS50-Introduction-to-programming-in-Python) |
-| [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [Ongoing] | 
-| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++ | [Ongoing] |
+| [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [Ongoing](https://github.com/cjsmith1541/CS61A-Structure-and-Interpretation-of-Computer-Programs) | 
+| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++ | [Ongoing](https://github.com/cjsmith1541/CS106L-Standard-C-Programming) |
 
 ---
 
