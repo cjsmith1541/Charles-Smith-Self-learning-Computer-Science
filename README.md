@@ -4,17 +4,12 @@
 
 Overview TODO
 
-
 ## Programming Courses
 
 | Course Link                                                 | Language | My repository |
 | ----------------------------------------------------------- | -------- |---------------|
-| [MIT missing-semester](https://missing.csail.mit.edu/2020/) | Shell    | [Ongoing]
+| [MIT missing-semester](https://missing.csail.mit.edu/2020/) | Shell | [Ongoing] |
 | [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [Ongoing] | 
-| [Havard: cs50](https://cs50.harvard.edu/x/2020/syllabus/) | C, Python, SQL | [Ongoing]                                            |
-| [Havard: cs50 python](https://cs50.harvard.edu/python/2022/) | Python      | [Ongoing](https://github.com/cjsmith1541/CS50-Introduction-to-programming-in-Python)
-| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++      | [Ongoing] |
-
-
-
-
+| [Havard CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2020/syllabus/) | C, Python, SQL | [Ongoing] |
+| [Havard CS50: Introduction to programming in Python](https://cs50.harvard.edu/python/2022/) | Python | [Ongoing](https://github.com/cjsmith1541/CS50-Introduction-to-programming-in-Python) |
+| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++ | [Ongoing] |
