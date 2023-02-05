@@ -19,4 +19,4 @@ Online Courses from other universities that I am taking to further my knowledge 
 
 | Course Link                                                 | Language | My repository |
 | ----------------------------------------------------------- | -------- |---------------|
-| [MIT missing-semester](https://missing.csail.mit.edu/2020/) | BASH Shell, Git, Vim | [Ongoing] |
+| [MIT missing-semester](https://missing.csail.mit.edu/2020/) | BASH Shell, Git, Vim | [Ongoing](https://github.com/cjsmith1541/MIT-Missing-Semester) |
