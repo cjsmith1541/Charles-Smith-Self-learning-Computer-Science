@@ -4,9 +4,10 @@
 
 Online Courses from other universities that I am taking to further my knowledge in Computer Science. In the hopes to make me a more well rounded software engineer. 
 
-##Overview
+## Overview
 
 [Programming Courses](#programming-courses)
+
 [Miscellaneous](#miscellaneous)
 
 ## Programming Courses
@@ -18,6 +19,8 @@ Online Courses from other universities that I am taking to further my knowledge 
 | [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [Ongoing](https://github.com/cjsmith1541/CS61A-Structure-and-Interpretation-of-Computer-Programs) | 
 | [Stanford CS106L: Standard C++ programming](http://web.stanford.edu/class/cs106l/) | C++ | [Ongoing](https://github.com/cjsmith1541/CS106L-Standard-cpp-Programming) |
 
+[↩](#overview)	
+
 ---
 
 ## Miscellaneous
@@ -25,3 +28,5 @@ Online Courses from other universities that I am taking to further my knowledge 
 | Course Link                                                 | Language | My repository |
 | ----------------------------------------------------------- | -------- |---------------|
 | [MIT missing-semester](https://missing.csail.mit.edu/2020/) | BASH, Git, Vim | [Ongoing](https://github.com/cjsmith1541/MIT-Missing-Semester) |
+
+[↩](#overview)	
