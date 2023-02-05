@@ -4,6 +4,11 @@
 
 Online Courses from other universities that I am taking to further my knowledge in Computer Science. In the hopes to make me a more well rounded software engineer. 
 
+##Overview
+
+[Programming Courses](#programming-courses)
+[Miscellaneous](#miscellaneous)
+
 ## Programming Courses
 
 | Course Link                                                 | Language | My repository |
