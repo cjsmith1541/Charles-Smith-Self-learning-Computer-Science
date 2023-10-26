@@ -22,6 +22,8 @@ Online Courses from other universities that I am taking to further my knowledge 
 
 [Miscellaneous](#miscellaneous)
 
+[Bibliography](#Bibliography)
+
 ## Programming Courses
 
 | Course Link                                                 | Language | My repository |
