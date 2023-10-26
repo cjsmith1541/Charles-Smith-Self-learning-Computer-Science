@@ -36,42 +36,6 @@ Online Courses from other universities and books read to further my knowledge in
 [↩](#overview)	
 
 ---
-
-## Maths Courses
-
-[↩](#overview)
-
----
-
-## Data Structures and Algorithms
-
-[↩](#overview)
-
----
-
-## Computer Architecture
-
-[↩](#overview)
-
----
-
-## Machine Learning and Deep Learning
-
-[↩](#overview)
-
----
-
-## Computer Systems
-
-[↩](#overview)
-
----
-
-## Software Engineering
-
-[↩](#overview)
-
----
 ## Miscellaneous
 
 | Course Link                                                 | Language | My repository |
@@ -83,7 +47,7 @@ Online Courses from other universities and books read to further my knowledge in
 ---
 ## Bibliography
 
-| Course Link                                                 | Language | My repository |
+| Book                                                 | Language | My repository |
 | ----------------------------------------------------------- | -------- |---------------|
 | [The C Programming Language](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628l) | C | [Ongoing](https://github.com/cjsmith1541/The-C-Programming-language) |
 
