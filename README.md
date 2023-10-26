@@ -77,3 +77,12 @@ Online Courses from other universities that I am taking to further my knowledge 
 | [MIT missing-semester](https://missing.csail.mit.edu/2020/) | BASH, Git, Vim | [Ongoing](https://github.com/cjsmith1541/MIT-Missing-Semester) |
 
 [↩](#overview)	
+
+---
+## Bibliography
+
+| Course Link                                                 | Language | My repository |
+| ----------------------------------------------------------- | -------- |---------------|
+| [The C Programming Language](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628l) | C | [Ongoing](https://github.com/cjsmith1541/The-C-Programming-language) |
+
+[↩](#overview)	
