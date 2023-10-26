@@ -8,18 +8,6 @@ Online Courses from other universities and books read to further my knowledge in
 
 [Programming Courses](#programming-courses)
 
-[Maths Courses](#maths-courses)
-
-[Data structures and Algorithms](#data-structures-and-algorithms)
-
-[Computer Architecture](#computer-architecture)
-
-[Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
-
-[Computer Systems](#computer-systems)
-
-[Software Engineering](#software-engineering)
-
 [Miscellaneous](#miscellaneous)
 
 [Bibliography](#Bibliography)
