@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-Online Courses from other universities that I am taking to further my knowledge in Computer Science. In the hopes to make me a more well rounded software engineer. 
+Online Courses from other universities that I am taking to further my knowledge in Computer Science and books read. In the hopes to make me a more well rounded software engineer. 
 
 ## Overview
 
